@@ -1,4 +1,4 @@
-# NYC-Data: Pyton Final Project
+# NYC-Data: Python Final Project
 # Step 1:
 Datasets folder contains all the data that will be used on the project. More data will be added soon from: https://data.cityofnewyork.us/browse?category=Transportation. We can focus on data sets on NYC transportation, health, environment, Education etc. We will have to make sure the data's aren't too noisy and only structured data about the topics above will be picked for the NYC open data site. The formats of the data is still undecided: it could be either .csv or .json we will pick the one that is easy to parse.
 # Step 2:
